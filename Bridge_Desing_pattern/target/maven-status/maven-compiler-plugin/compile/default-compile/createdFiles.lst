@@ -1,0 +1,11 @@
+com\mycompany\bridge_desing_pattern\concrete_wrapper.class
+com\mycompany\bridge_desing_pattern\vehicle.class
+com\mycompany\bridge_desing_pattern\cargoTruck.class
+com\mycompany\bridge_desing_pattern\Bridge_Desing_pattern.class
+com\mycompany\bridge_desing_pattern\bike.class
+com\mycompany\bridge_desing_pattern\cabin_vehcile.class
+com\mycompany\bridge_desing_pattern\wrangler.class
+com\mycompany\bridge_desing_pattern\jeep.class
+com\mycompany\bridge_desing_pattern\car.class
+com\mycompany\bridge_desing_pattern\open_ride_vechile.class
+com\mycompany\bridge_desing_pattern\taxi.class

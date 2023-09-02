@@ -1,0 +1,10 @@
+com\mycompany\bridge_pattren\vehicle.class
+com\mycompany\bridge_pattren\cabin_vehcile.class
+com\mycompany\bridge_pattren\cargoTruck.class
+com\mycompany\bridge_pattren\bike.class
+com\mycompany\bridge_pattren\open_ride_vechile.class
+com\mycompany\bridge_pattren\concrete_wrapper.class
+com\mycompany\bridge_pattren\taxi.class
+com\mycompany\bridge_pattren\jeep.class
+com\mycompany\bridge_pattren\car.class
+com\mycompany\bridge_pattren\Bridge_Pattren.class
